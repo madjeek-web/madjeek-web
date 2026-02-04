@@ -19,3 +19,12 @@ Chief Executive Officer | Project and Team Management - Art / Creative Director 
 - [Projet XYZ](https://github.com/madjeek-web/projet-xyz)
 - [Autre projet](https://github.com/madjeek-web/autre-projet)
 <!--- [Twitter](https://twitter.com/votrecompte) -->
+
+##
+. Soft Skills :
+
+Leadership Positive Feedback - Emotional / Collective Intelligence - CHO spirit - Emphaty - Pedagogy - Relationship - Creative Concepts - Delegation - Decision making - Open mind - Communicative - Listen - Analyze -
+Adapting - Ethic - Organized
+
+##
+. Management Methods : Sequential / Cascading | Scrum | Agile | Kanban | Design Thinking
