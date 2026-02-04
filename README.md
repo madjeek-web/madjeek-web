@@ -14,10 +14,8 @@ Chief Executive Officer | Project and Team Management - Art / Creative Director 
 
 ##
 - [Github site](https://madjeek-web.github.io)
+
 <!--
 - [Projet XYZ](https://github.com/madjeek-web/projet-xyz)
 - [Autre projet](https://github.com/madjeek-web/autre-projet)
 <!--- [Twitter](https://twitter.com/votrecompte) -->
-
-##
-- [LinkedIn](https://www.linkedin.com/in/fabien-conejero/)
