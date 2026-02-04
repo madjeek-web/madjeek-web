@@ -14,3 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+ # 👋 Bonjour, je suis Madjeek!
+
+**Développeur web passionné** | Créateur de contenu | Amateur de technologies
+
+## 🛠️ Mes compétences
+- **Frontend**: HTML, CSS, JavaScript, React
+- **Backend**: Node.js, Python
+- **Outils**: Git, GitHub, VS Code
+
+## 🌟 Mes projets phares
+- [Mon site portfolio](https://madjeek-web.github.io)
+- [Projet XYZ](https://github.com/madjeek-web/projet-xyz)
+- [Autre projet](https://github.com/madjeek-web/autre-projet)
+
+## 📊 Statistiques GitHub
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=madjeek-web&show_icons=true&theme=radical)
+
+## 📫 Me contacter
+- [Twitter](https://twitter.com/votrecompte)
+- [LinkedIn](https://linkedin.com/in/votreprofil)
+- Email: votre.email@example.com
