@@ -7,13 +7,15 @@ Here are some ideas to get you started : -->
 Chief Executive Officer | Project and Team Management - Art / Creative Director - Web Developer |
 
 ##
+
+- Email : encrypt-free.74.mq2fl@aleeeas.com
+
+##
 - [Github site](https://madjeek-web.github.io)
 <!--
 - [Projet XYZ](https://github.com/madjeek-web/projet-xyz)
 - [Autre projet](https://github.com/madjeek-web/autre-projet)
 <!--- [Twitter](https://twitter.com/votrecompte) -->
-- [LinkedIn](https://linkedin.com/in/votreprofil)
 
 ##
-
-- Email : encrypt-free.74.mq2fl@aleeeas.com
+- [LinkedIn](https://www.linkedin.com/in/fabien-conejero/)
