@@ -4,7 +4,7 @@ Here are some ideas to get you started : -->
 
  # Hello, I'm Fabien Conéjéro !
 
-Chief Executive Officer | Project and Team Management - Art Director / Creative Director - Web Developer |
+Chief Executive Officer | Project and Team Management - Art / Creative Director - Web Developer |
 
 ##
 - [Github site](https://madjeek-web.github.io)
