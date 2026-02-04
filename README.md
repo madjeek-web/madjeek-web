@@ -13,7 +13,6 @@ Chief Executive Officer | Project and Team Management - Art Director / Creative 
 - [Autre projet](https://github.com/madjeek-web/autre-projet)
 <!--- [Twitter](https://twitter.com/votrecompte) -->
 - [LinkedIn](https://linkedin.com/in/votreprofil)
--->
 
 ## 📫 Contact
 
