@@ -16,6 +16,9 @@ Chief Executive Officer | Project and Team Management - Art / Creative Director 
 - [Linkedin](https://www.linkedin.com/in/fabien-conejero/)
 - [Github site](https://madjeek-web.github.io)
 - [Malt](https://www.malt.fr/profile/fabien-conejero)
+
+- [Linktr](https://linktr.ee/madjeekagency)
+ 
 - [Codepen](https://codepen.io/Fabien-Conejero)
 
 <!--
