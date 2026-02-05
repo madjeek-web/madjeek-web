@@ -13,6 +13,7 @@ Chief Executive Officer | Project and Team Management - Art / Creative Director 
 - Email : encrypt-free.74.mq2fl@aleeeas.com
 
 ##
+- [Linkedin](https://www.linkedin.com/in/fabien-conejero/)
 - [Github site](https://madjeek-web.github.io)
 - [Malt](https://www.malt.fr/profile/fabien-conejero)
 - [Codepen](https://codepen.io/Fabien-Conejero)
