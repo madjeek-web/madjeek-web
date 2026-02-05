@@ -13,13 +13,11 @@ Chief Executive Officer | Project and Team Management - Art / Creative Director 
 - Email : encrypt-free.74.mq2fl@aleeeas.com
 
 ##
-- [Linkedin](https://www.linkedin.com/in/fabien-conejero/)
-- [Github site](https://madjeek-web.github.io)
-- [Malt](https://www.malt.fr/profile/fabien-conejero)
-
-- [Linktr](https://linktr.ee/madjeekagency)
- 
-- [Codepen](https://codepen.io/Fabien-Conejero)
+- <a href="https://www.linkedin.com/in/fabien-conejero/" target="_blank" rel="noopener noreferrer">Linkedin</a>
+- <a href="https://madjeek-web.github.io" target="_blank" rel="noopener noreferrer">Github site</a>
+- <a href="https://www.malt.fr/profile/fabien-conejero" target="_blank" rel="noopener noreferrer">Malt</a>
+- <a href="https://linktr.ee/madjeekagency" target="_blank" rel="noopener noreferrer">Linktr</a>
+- <a href="https://codepen.io/Fabien-Conejero" target="_blank" rel="noopener noreferrer">Codepen</a>
 
 <!--
 - [Projet XYZ](https://github.com/madjeek-web/projet-xyz)
