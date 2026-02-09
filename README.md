@@ -6,21 +6,34 @@ Here are some ideas to get you started : -->
 
  # Hello, I'm Fabien Conéjéro !
 
-Chief Executive Officer | Project and Team Management - Art / Creative Director - Web Developer |
+. Chief Executive Officer | Project and Team Management - Art / Creative Director - Web Developer |
+. Management Methods : Sequential / Cascading | Scrum | Agile | Kanban | Design Thinking |
+
+. Soft Skills :
+
+Leadership Positive Feedback - Emotional / Collective Intelligence - CHO spirit - Emphaty - Pedagogy - Relationship - Creative Concepts - Delegation - Decision making - Open mind - Communicative - Listen - Analyze -
+Adapting - Ethic - Organized
 
 ##
 
+CONTACT :
+
 - Email : encrypt-free.74.mq2fl@aleeeas.com
+- Open to work on your projects :
+- <a href="https://www.malt.fr/profile/fabien-conejero" target="_blank" rel="noopener noreferrer">Malt</a>
+- <a href="https://www.linkedin.com/in/fabien-conejero/" target="_blank" rel="noopener noreferrer">Linkedin</a>
 
 ##
 
 - <a href="https://madjeek-web.github.io" target="_blank" rel="noopener noreferrer">Github site</a>
 
 ##
-- <a href="https://www.linkedin.com/in/fabien-conejero/" target="_blank" rel="noopener noreferrer">Linkedin</a>
-- <a href="https://www.malt.fr/profile/fabien-conejero" target="_blank" rel="noopener noreferrer">Malt</a>
+
+Other links :
+
 - <a href="https://linktr.ee/madjeekagency" target="_blank" rel="noopener noreferrer">Linktr</a>
 - <a href="https://codepen.io/Fabien-Conejero/pens/public" target="_blank" rel="noopener noreferrer">Codepen</a>
+- <a href="https://www.youtube.com/@madjeek-agency" target="_blank" rel="noopener noreferrer">Youtube</a>
 
 <!--
 - [Projet XYZ](https://github.com/madjeek-web/projet-xyz)
@@ -28,10 +41,4 @@ Chief Executive Officer | Project and Team Management - Art / Creative Director 
 <!--- [Twitter](https://twitter.com/votrecompte) -->
 
 ##
-. Soft Skills :
 
-Leadership Positive Feedback - Emotional / Collective Intelligence - CHO spirit - Emphaty - Pedagogy - Relationship - Creative Concepts - Delegation - Decision making - Open mind - Communicative - Listen - Analyze -
-Adapting - Ethic - Organized
-
-##
-. Management Methods : Sequential / Cascading | Scrum | Agile | Kanban | Design Thinking
