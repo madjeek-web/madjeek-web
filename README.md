@@ -37,7 +37,7 @@ CONTACT :
 
 ##
 
-. French beatmaker, music creator, instrumental oriented towards hip-hop styles old school and rap in the old era.
+. French beatmaker, music creator, instrumental oriented towards hip-hop styles old school.
 Licence : CC BY-NC-ND
 
 - <a href="https://soundcloud.com/madjeek" target="_blank" rel="noopener noreferrer">Soundcloud</a>
