@@ -20,10 +20,14 @@ Adapting - Ethic - Organized
 
 ##
 
+Open to work on your projects : communication / image / multimedia / web and digital / promotion and referencing
+
 CONTACT :
 
 - Email : encrypt-free.74.mq2fl@aleeeas.com
-- Open to work on your projects :
+
+##
+
 - <a href="https://www.malt.fr/profile/fabien-conejero" target="_blank" rel="noopener noreferrer">Malt</a>
 - <a href="https://www.linkedin.com/in/fabien-conejero/" target="_blank" rel="noopener noreferrer">Linkedin</a>
 
