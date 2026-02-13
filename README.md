@@ -8,6 +8,8 @@ Here are some ideas to get you started : -->
 
 Multidisciplinary Profile
 
+##
+
 . Chief Executive Officer | Project and Team Management - Art / Creative Director - Web Developer |
 . Management Methods : Sequential / Cascading | Scrum | Agile | Kanban | Design Thinking |
 
