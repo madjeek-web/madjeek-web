@@ -6,6 +6,8 @@ Here are some ideas to get you started : -->
 
  # Hello, I'm Fabien Conéjéro !
 
+Multidisciplinary Profile
+
 . Chief Executive Officer | Project and Team Management - Art / Creative Director - Web Developer |
 . Management Methods : Sequential / Cascading | Scrum | Agile | Kanban | Design Thinking |
 
@@ -29,11 +31,18 @@ CONTACT :
 
 ##
 
+. French beatmaker, music creator, instrumental oriented towards hip-hop styles old school and rap in the old era.
+Licence : CC BY-NC-ND
+
+- <a href="https://soundcloud.com/madjeek" target="_blank" rel="noopener noreferrer">Soundcloud</a>
+- <a href="https://www.youtube.com/@madjeek-agency" target="_blank" rel="noopener noreferrer">Youtube</a>
+
+##
+
 Other links :
 
 - <a href="https://linktr.ee/madjeekagency" target="_blank" rel="noopener noreferrer">Linktr</a>
 - <a href="https://codepen.io/Fabien-Conejero/pens/public" target="_blank" rel="noopener noreferrer">Codepen</a>
-- <a href="https://www.youtube.com/@madjeek-agency" target="_blank" rel="noopener noreferrer">Youtube</a>
 
 <!--
 - [Projet XYZ](https://github.com/madjeek-web/projet-xyz)
