@@ -10,8 +10,11 @@ Multidisciplinary Profile
 
 ##
 
-. Chief Executive Officer | Project and Team Management - Art / Creative Director - Web Developer |
+. Project Management - Art / Creative Director - Web Developer / Designer 
+
 . Management Methods : Sequential / Cascading | Scrum | Agile | Kanban | Design Thinking |
+
+. HTML 5 - CSS 3 - PHP - JavaScript - SQL - JSON - XML - SEO - SMO
 
 . Soft Skills :
 
@@ -28,11 +31,7 @@ CONTACT :
 
 ##
 
-- <a href="https://www.malt.fr/profile/fabien-conejero" target="_blank" rel="noopener noreferrer">Malt</a>
 - <a href="https://www.linkedin.com/in/fabien-conejero/" target="_blank" rel="noopener noreferrer">Linkedin</a>
-
-##
-
 - <a href="https://madjeek-web.github.io" target="_blank" rel="noopener noreferrer">Github site</a>
 
 ##
@@ -51,6 +50,7 @@ Other links :
 
 - <a href="https://linktr.ee/madjeekagency" target="_blank" rel="noopener noreferrer">Linktr</a>
 - <a href="https://codepen.io/Fabien-Conejero/pens/public" target="_blank" rel="noopener noreferrer">Codepen</a>
+- <a href="https://www.malt.fr/profile/fabien-conejero" target="_blank" rel="noopener noreferrer">Malt</a>
 
 <!--
 - [Projet XYZ](https://github.com/madjeek-web/projet-xyz)
