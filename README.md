@@ -43,6 +43,7 @@ CONTACT :
 
 - <a href="https://soundcloud.com/madjeek" target="_blank" rel="noopener noreferrer">Soundcloud</a>
 - <a href="https://www.youtube.com/@madjeek-agency" target="_blank" rel="noopener noreferrer">Youtube</a>
+- <a href="https://www.deezer.com/search/madjeek/user" target="_blank" rel="noopener noreferrer">Deezer</a>
 
 - For commercial use :
 - <a href="https://github.com/madjeek-web/LICENCE-CC-BY-NC-ND-4.0" target="_blank" rel="noopener noreferrer">Licence CC BY-NC-ND</a>
