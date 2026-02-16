@@ -10,11 +10,15 @@ Multidisciplinary Profile
 
 ##
 
-. Project Management - Art / Creative Director - Web Developer / Designer 
+. Chief Executive Officer
+
+. Project Management - Art / Creative Director -Senior Web Developer / Designer 
 
 . Management Methods : Sequential / Cascading | Scrum | Agile | Kanban | Design Thinking |
 
-. HTML 5 - CSS 3 - PHP - JavaScript - SQL - JSON - XML - SEO - SMO
+. HTML 5 - CSS 3 - PHP - JavaScript - SQL - JSON - XML - SEO - SMO 
+
+##
 
 . Soft Skills :
 
