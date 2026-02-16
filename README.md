@@ -52,7 +52,7 @@ CONTACT :
 
 Other links :
 
-<a href="https://linktr.ee/madjeekagency" target="_blank" rel="noopener noreferrer">Linktr</a> | <a href="https://madjeek-web.github.io" target="_blank" rel="noopener noreferrer">Github site</a> | <a href="https://medium.com/@madjeek.agency" target="_blank" rel="noopener noreferrer">Medium</a> | <a href="https://codepen.io/Fabien-Conejero/pens/public" target="_blank" rel="noopener noreferrer">Codepen</a> | <a href="https://www.malt.fr/profile/fabien-conejero" target="_blank" rel="noopener noreferrer">Malt</a> | <a href="https://www.codeur.com/-madjeek" target="_blank" rel="noopener noreferrer">Codeur</a> | <a href="https://graphiste.com/madjeek" target="_blank" rel="noopener noreferrer">Graphiste</a>
+. <a href="https://linktr.ee/madjeekagency" target="_blank" rel="noopener noreferrer">Linktr</a> | . <a href="https://madjeek-web.github.io" target="_blank" rel="noopener noreferrer">Github site</a> | . <a href="https://medium.com/@madjeek.agency" target="_blank" rel="noopener noreferrer">Medium</a> | . <a href="https://codepen.io/Fabien-Conejero/pens/public" target="_blank" rel="noopener noreferrer">Codepen</a> | . <a href="https://www.malt.fr/profile/fabien-conejero" target="_blank" rel="noopener noreferrer">Malt</a> | . <a href="https://www.codeur.com/-madjeek" target="_blank" rel="noopener noreferrer">Codeur</a> | . <a href="https://graphiste.com/madjeek" target="_blank" rel="noopener noreferrer">Graphiste</a>
 
 <!--
 - [Projet XYZ](https://github.com/madjeek-web/projet-xyz)
