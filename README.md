@@ -20,7 +20,7 @@ Multidisciplinary Profile
 
 ##
 
-. Soft Skills :
+- Soft Skills :
 
 Leadership Positive Feedback - Emotional / Collective Intelligence - CHO spirit - Emphaty - Pedagogy - Relationship - Creative Concepts - Delegation - Decision making - Open mind - Communicative - Listen - Analyze -
 Adapting - Ethic - Organized
@@ -29,7 +29,7 @@ Adapting - Ethic - Organized
 
 Open to work on your projects : communication / image / multimedia / web and digital / promotion and referencing
 
-CONTACT :
+- CONTACT :
 
 - Email : encrypt-free.74.mq2fl@aleeeas.com
 
@@ -39,7 +39,7 @@ CONTACT :
 
 ##
 
-. French beatmaker, music creator, instrumental oriented towards hip-hop styles old school.
+- French beatmaker, music creator, instrumental oriented towards hip-hop styles old school.
 
 - <a href="https://soundcloud.com/madjeek" target="_blank" rel="noopener noreferrer">Soundcloud</a> | . <a href="https://www.youtube.com/@madjeek-agency" target="_blank" rel="noopener noreferrer">Youtube</a> | . <a href="https://www.deezer.com/search/madjeek/user" target="_blank" rel="noopener noreferrer">Deezer</a>
 
@@ -47,7 +47,7 @@ CONTACT :
 
 ##
 
-Other links :
+- Other links :
 
 . <a href="https://linktr.ee/madjeekagency" target="_blank" rel="noopener noreferrer">Linktr</a> | . <a href="https://madjeek-web.github.io" target="_blank" rel="noopener noreferrer">Github site</a> | . <a href="https://medium.com/@madjeek.agency" target="_blank" rel="noopener noreferrer">Medium</a> | . <a href="https://codepen.io/Fabien-Conejero/pens/public" target="_blank" rel="noopener noreferrer">Codepen</a> | . <a href="https://www.malt.fr/profile/fabien-conejero" target="_blank" rel="noopener noreferrer">Malt</a> | . <a href="https://www.codeur.com/-madjeek" target="_blank" rel="noopener noreferrer">Codeur</a> | . <a href="https://graphiste.com/madjeek" target="_blank" rel="noopener noreferrer">Graphiste</a>
 
