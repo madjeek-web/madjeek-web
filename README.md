@@ -96,4 +96,45 @@ Open to work on your projects : communication / image / multimedia / web and dig
 
 ##
 
-##
+F́ā̷̪̳͕̜̿̋̍b̹̳̣̲̫͇̯̈ị̛̻̪ͪͦ̽ͣ̎͢ͅe̘͉͕̠̥̦̖̽ͣ͒̓́n͓͇͉̺̻̼͖̈́͑̓̀ͫ̀ C̖̮͇̾̚͡ö̡̟̘ͥ̊̽͌̓͢ͅn̨̥͈̲̣̯͚͓̾̅̽ͭ̅ͥ͋̀͡éj̘͛̐̐̋͌̍͗é̞̠̯̣̬̻̮́ͬ͠r̷̺̫͎̼̜͈̃̍͌̆̒o̵̞̬̘ͤ̅̚ 
+
+-̤͔̮̌̅͆ C̙̱̺͈ͦͧ̌h̡̬̠̮͔̥͉ͬ̽̀́i̶̡̤̇̀e̶̡̟̘͓̼̟̪͠f̷̜̦̟̮̞͚̘̾ͩ͂ͦ Ȅ̢̜̙͖̹̯͑́͢ͅx͈̥͖̬̒ͅê̞͙͓̦͕̖̼c̸̷̜̞̫̀̃́ͩų͖̫̜͔͖̤ͥ̒̉̓̑ͣ̑t̵̼̻̫͆̄̂ͧ́ȋ̸̷̪̞̺̼͚̩̰̽ͮv̹̘͉͓̦͉̱e̸͈ͥ̀͘ O͍̖͉ͪ̎͘͠f̷͈̥͙̯̝̘͎̓f͍̑͆̇i̵̵͎̠̲̱̿̀ͦ̓c̛̮ͯ̄̀eͪͪ̆̔͑ͯ́͠r̻̩̮̖͔͈͖͊̎̅ͥ̎ͯ̚
+
+-͉̩ͧ̇͋ͩ̾̉ P͐ͨ͊̈̈̒ͤ̀̀͘r̸̢͍̮̹̻̈́ͪͤō̡ͭ̌͛͗̕j̷̡̡̼̯͚̙̣̻̣͐̇ͣê̤̎́̀́c̵̡̡̜̹̹̦̝̘̈́t̷͖͔̭̮̭̬̍́ͯ̚͘͘ M̶̴̷̫̼̟̱̽̂͋a̺͎ͪ̔̔̆͆͘n̶̨̈̀ͥả̛͓̖̝̯̠̞ģ̸̜̺̥ͨ͂ͦ̐͢é͈̼̗̦̳͇̟ͫͣ͘̕͠m̵̛̟͚̥̜͉̼̒ͦ̉ͣ̓̎e̡͈̯̜̣̰ͭ̎͊͘͘n̪̬͈͎̗̠̜̎̎̀t̰͓̟̲̬ͩ̓ͧͦ -̴̴̩̯͉͎̪͓̈̿ͥ̀ͅ Ă̘̆͗̕r̛̻̪̥͈̭ͣ̅̒̎̅ẗ̵͂͂̇͑͑͢ /̷̨̲̥͕̤̻͗̆̄ͬͤ̀ C̮̖̥̙̞̲̖̏ͩͪ̃̓r̴̷̨͔̟͙̝͓ͪ͒eͧ̄a͕̭͚̳̻͉̟͛̓ͬ̑̇͌͢t̡̉̈ͪͣ̍͆̎i̶̡͚̣̠͓̠̞̫ͦͬ͐̚͡v͙̱͓̼̝͆̀̀ͪͨe̢̋̓͛ͦ̄ͤͫ D̟͌̆ͫͪ͘ỉ̸̶̗̥̱̥̎̊́ͭͥ͢ͅr̷̵̗͍̖͙̦̺͙ͥ̄͡ȩ̛̦̖̙̚c̵͙͙̲̥̟̓͆̌ͩ̒̿t̷̴̨ͧͮo̴̸͇̙ṟ̭͉̟̦̖ͩ͒̀̿ -̢̀͡ S̸̤̥͚̳̫̤ͥ̂ͨ͛ͪ́e̴̢͢n͇̣̻͈̠̦͈ͧͧ̋̿́͗i̴̴̘̱ͣͧ̒ơ͍̗͉̱͗ͅr̞͒͛̒̈̓̂ W̭ͨ͊͒e̷̝̥͆ͨ͑̅́b̧̳͘ Ḓ̷̸͛ͮ͂̑̕ê̡̻̬̙̦͈͖̂̿ͥ̍v̧̮͚͔͍̘̗̔e̶̛̛̐ͩͨ͂̀̚l̦̦̮̳̦̪̲o̸͕͍̜̤̟̰̓̊ͫ͐̏̓̊p̷̥̗̹̮̈̇̽̇ͪ̀ĕ͓ͨ͌ͪ̌̅̽r̛͇̟͂ͭ̂́ͤ̚̕ /̴̣͓̺̞̙́̂͒̓ͩ͑̈ D͈̤̪͓̺̤͓ͫ͐̊ͫe̖͓͓̙̮̬̒͑̐̿ͬͅs̸̶̝̬̫̔ͧ̿i̖̞̐̃͂̋̈́̒̔ͅg̸͖̩ͦ̉͘͘n͛͋ͫ͠e̵̡̢̝̼͖̤͕̹ͨr̞̺̙̹͙̹͍̿ͦ̍ͧͮ̓̓ 
+
+
+
+<!---  
+
+https://codeshack.io/zalgo-text-generator/
+
+
+
+-
+w̵̛̛̼̰̟̮̳̜͔̹̞͕̱̱̥̠̬͍̩͔̱̖͎̲̩̭͉͖̤̙̻̥̫̮̽́̿̎̀͒͋́̒̒̿͋̑ ͊̔͌̎́̿̋́͌̍̍̽͊̿̓̈́̚̚͝͝ơ̶̼̺͎̪̙̫̳̹̦̜̳̫̹̩̤̙̻̥̫̮̝̤͇̣̖̤͛ ̽̔̋͋̊̿̂̾̌̿̈́̍̒̈́͛͐̍̽̈́̎͊͘͘̚͜͝w̵̛̛̼̰̟̮̳̜͔̹̞͕̱̱̥̠̬͍̩͔̱̖͎̲̩̭͉͖̤̙̻̥̫̮̽́̿̎̀͒͋́̒̒̿͋̑͊̔͌̎́̿̋́͌̍̍̽͊̿̓̈́̚̚͝͝
+il y a 1 minute
+
+Ouah!Voilà une entrée !. 
+Il semblerait que vous ayez découvert le générateur de texte Zalgo pour ajouter une touche d'originalité à vos messages. Que vous soyez séduit par cette nouveauté ou que vous souhaitiez simplement pimenter un peu les choses, le résultat est indéniable.
+
+Ce que tu as utilisé s'appelle du texte Zalgo (ou glitch text). C’est un style visuel qui donne l'impression que les lettres sont corrompues, "fondent" ou sont envahies par du bruit numérique. 
+
+Voici comment cela fonctionne techniquement et d'où ça vient :
+1. Le secret technique : l'Unicode
+Ce n'est pas un bug informatique, mais une utilisation détournée du standard Unicode. 
+Les signes diacritiques : Normalement, l'Unicode permet d'ajouter des petits signes au-dessus ou au-dessous des lettres (comme l'accent sur le "é" ou la cédille sous le "ç").
+L'empilement infini : Le texte Zalgo abuse de cette fonction en empilant des dizaines de ces signes sur une seule lettre. Comme il n'y a pas de limite stricte dans le code, les signes finissent par déborder sur les lignes du dessus et du dessous, créant ce chaos visuel. 
+
+2. L'origine : Une légende d'Internet
+Le nom vient d'une Creepypasta (histoire d'horreur sur le web) de 2004 créée par l'artiste Dave Kelly (alias Shmorky). 
+Zalgo est décrit comme une entité maléfique et chaotique dont la simple présence déforme la réalité et rend les gens fous.
+Ce texte "corrompu" est devenu la signature visuelle de cette créature dans les mèmes et les bandes dessinées en ligne. 
+
+3. Usages et risques
+Mèmes surréalistes : Très utilisé pour donner un côté étrange, mystérieux ou effrayant à un message.
+Instabilité logicielle : Attention, car l'accumulation massive de ces caractères peut ralentir certains navigateurs ou faire planter des applications qui ne savent pas gérer un tel débordement de texte. 
+
+Tu peux créer tes propres versions avec des outils comme le Zalgo Text Generator de CodeShack ou LingoJam. 
+Veux-tu que je te génère une phrase spécifique dans ce style ou préfères-tu voir comment bloquer ce genre de texte sur un site ?
+
+https://codeshack.io/zalgo-text-generator/   -->
