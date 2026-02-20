@@ -27,19 +27,7 @@ Adapting - Ethic - Organized
 
 Open to work on your projects : communication / image / multimedia / web and digital / promotion and referencing
 
-- Email : encrypt-free.74.mq2fl@aleeeas.com
-
-##
-
-- <a href="https://www.linkedin.com/in/fabien-conejero/" target="_blank" rel="noopener noreferrer">Linkedin</a>
-
-##
-
-- French beatmaker, music creator, instrumental oriented towards hip-hop styles old school.
-
-- <a href="https://soundcloud.com/madjeek" target="_blank" rel="noopener noreferrer">Soundcloud</a> | . <a href="https://www.youtube.com/@madjeek-agency" target="_blank" rel="noopener noreferrer">Youtube</a> | . <a href="https://www.deezer.com/search/madjeek/user" target="_blank" rel="noopener noreferrer">Deezer</a>
-
-- For commercial use : <a href="https://github.com/madjeek-web/LICENCE-CC-BY-NC-ND-4.0" target="_blank" rel="noopener noreferrer">Licence CC BY-NC-ND</a>
+- Email : encrypt-free.74.mq2fl@aleeeas.com | My profile : <a href="https://www.linkedin.com/in/fabien-conejero/" target="_blank" rel="noopener noreferrer">Linkedin</a>
 
 ##
 
@@ -50,6 +38,11 @@ Open to work on your projects : communication / image / multimedia / web and dig
 
 - <a href="https://www.facebook.com/people/Madjeek/100065399403744/" target="_blank" rel="noopener noreferrer">Madjeek Facebook</a> | . <a href="https://www.instagram.com/madjeek.agency/" target="_blank" rel="noopener noreferrer">Madjeek Instagram</a> | . <a href="https://x.com/Madjeek_Agency/" target="_blank" rel="noopener noreferrer">Madjeek X / Twitter</a> | . <a href="https://www.linkedin.com/showcase/madjeek-web-agency/" target="_blank" rel="noopener noreferrer">Madjeek Linkedin</a>
 
+- French beatmaker, music creator, instrumental oriented towards hip-hop styles old school :
+
+- <a href="https://soundcloud.com/madjeek" target="_blank" rel="noopener noreferrer">Soundcloud</a> | . <a href="https://www.youtube.com/@madjeek-agency" target="_blank" rel="noopener noreferrer">Youtube</a> | . <a href="https://www.deezer.com/search/madjeek/user" target="_blank" rel="noopener noreferrer">Deezer</a>
+
+- For commercial use : <a href="https://github.com/madjeek-web/LICENCE-CC-BY-NC-ND-4.0" target="_blank" rel="noopener noreferrer">Licence CC BY-NC-ND</a>
 
 <!--
 - [Projet XYZ](https://github.com/madjeek-web/projet-xyz)
