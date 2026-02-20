@@ -1,6 +1,5 @@
 <!--
-**madjeek-web/madjeek-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started : -->
+**madjeek-web/madjeek-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. Here are some ideas to get you started : -->
 
 <img src="https://github.com/madjeek-web/madjeek-web/raw/main/fabien-conejero-131313.jpg" alt="Fabien Conéjéro" width="1024" height="507">
 
@@ -33,9 +32,4 @@ Open to work on your projects : communication / image / multimedia / web and dig
 
 - <a href="https://soundcloud.com/madjeek" target="_blank" rel="noopener noreferrer">Soundcloud</a> | . <a href="https://www.youtube.com/@madjeek-agency" target="_blank" rel="noopener noreferrer">Youtube</a> | . <a href="https://www.deezer.com/search/madjeek/user" target="_blank" rel="noopener noreferrer">Deezer</a> | . For commercial use : <a href="https://github.com/madjeek-web/LICENCE-CC-BY-NC-ND-4.0" target="_blank" rel="noopener noreferrer">Licence CC BY-NC-ND</a>
 
-<!--
-- [Projet XYZ](https://github.com/madjeek-web/projet-xyz)
-- [Autre projet](https://github.com/madjeek-web/autre-projet)
-<!--- [Twitter](https://twitter.com/votrecompte) -->
-
-##
+<!-- - [Projet XYZ](https://github.com/madjeek-web/projet-xyz) -->
