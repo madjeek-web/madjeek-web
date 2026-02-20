@@ -14,7 +14,7 @@ Multidisciplinary Profile
 
 - Management Methods : Sequential / Cascading | Scrum | Agile | Kanban | Design Thinking |
 
-- HTML 5 - CSS 3 - PHP - JavaScript - SQL - JSON - XML - SEO - SMO 
+- HTML  5 - CSS  3 - PHP - JavaScript - SQL - JSON - XML - SEO - SMO 
 
 ##
 
@@ -26,8 +26,6 @@ Adapting - Ethic - Organized
 ##
 
 Open to work on your projects : communication / image / multimedia / web and digital / promotion and referencing
-
-- CONTACT :
 
 - Email : encrypt-free.74.mq2fl@aleeeas.com
 
