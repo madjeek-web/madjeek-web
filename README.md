@@ -4,7 +4,6 @@
 <img src="https://github.com/madjeek-web/madjeek-web/raw/main/fabien-conejero-131313.jpg" alt="Fabien Conéjéro" width="1024" height="507">
 
  # Fabien Conéjéro
-Multidisciplinary Profile
 
 - Chief Executive Officer | Project Management | Art / Creative Director | Senior Web Developer / Designer / Graphic
 
