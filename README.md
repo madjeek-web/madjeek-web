@@ -8,15 +8,11 @@ Here are some ideas to get you started : -->
 
 Multidisciplinary Profile
 
-##
-
 - Chief Executive Officer | Project Management | Art / Creative Director | Senior Web Developer / Designer / Graphic
 
 - Management Methods : Sequential / Cascading | Scrum | Agile | Kanban | Design Thinking |
 
 - HTML  5 - CSS  3 - PHP - JavaScript - SQL - JSON - XML - SEO - SMO 
-
-##
 
 - Soft Skills :
 
