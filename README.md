@@ -10,9 +10,7 @@ Multidisciplinary Profile
 
 ##
 
-- Chief Executive Officer
-
-- Project Management - Art / Creative Director - Senior Web Developer / Designer 
+- Chief Executive Officer | Project Management | Art / Creative Director | Senior Web Developer / Designer / Graphic
 
 - Management Methods : Sequential / Cascading | Scrum | Agile | Kanban | Design Thinking |
 
