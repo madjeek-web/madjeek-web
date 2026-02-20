@@ -4,7 +4,7 @@ Here are some ideas to get you started : -->
 
 <img src="https://github.com/madjeek-web/madjeek-web/raw/main/fabien-conejero-131313.jpg" alt="Fabien Conéjéro" width="1024" height="507">
 
- # Hello, I'm Fabien Conéjéro !
+ # Fabien Conéjéro
 
 Multidisciplinary Profile
 
