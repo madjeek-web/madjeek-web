@@ -11,10 +11,7 @@ Management Methods : Sequential / Cascading | Scrum | Agile | Kanban | Design Th
 HTML  5 - CSS  3 - PHP - JavaScript - SQL - JSON - XML - SEO - SMO 
 Soft Skills : Leadership Positive Feedback - Emotional / Collective Intelligence - CHO spirit - Emphaty - Pedagogy - Relationship - Creative Concepts - Delegation - Decision making - Open mind - Communicative - Listen - Analyze - Adapting - Ethic - Organized
 
-##
-
 Open to work on your projects : communication / image / multimedia / web and digital / promotion and referencing
-
 - Email : encrypt-free.74.mq2fl@aleeeas.com | My profile : <a href="https://www.linkedin.com/in/fabien-conejero/" target="_blank" rel="noopener noreferrer">Linkedin</a>
 
 ##
