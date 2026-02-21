@@ -8,7 +8,7 @@
 
 - Chief Executive Officer | Project Management | Art / Creative Director | Senior Web Developer / Designer / Graphic
 
-Management Methods : Sequential / Cascading | Scrum | Agile | Kanban | Design Thinking | . | HTML  5 - CSS  3 - PHP - JavaScript - SQL - JSON - XML - SEO - SMO | . | Soft Skills : Leadership Positive Feedback - Emotional / Collective Intelligence - CHO spirit - Emphaty - Pedagogy - Relationship - Creative Concepts - Delegation - Decision making - Open mind - Communicative - Listen - Analyze - Adapting - Ethic - Organized | . | <​foaf:geekCode​>GCS GAT<​/foaf:geekCode​>
+Management Methods : Sequential / Cascading | Scrum | Agile | Kanban | Design Thinking | . | HTML  5 - CSS  3 - PHP - JavaScript - SQL - JSON - XML - SEO - SMO | . | Soft Skills : Leadership Positive Feedback - Emotional / Collective Intelligence - CHO spirit - Emphaty - Pedagogy - Relationship - Creative Concepts - Delegation - Decision making - Open mind - Communicative - Listen - Analyze - Adapting - Ethic - Organized | . | &lt;foaf:geekCode&gt;GCS GAT&lt;/foaf:geekCode&gt;
 
 Open to work on your projects : communication / image / multimedia / web and digital / promotion and referencing | 
 
