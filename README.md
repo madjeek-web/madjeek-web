@@ -1,7 +1,7 @@
 <!--
 **madjeek-web/madjeek-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. Here are some ideas to get you started : -->
 <p align="center">
-  <img src="https://github.com/madjeek-web/madjeek-web/raw/main/fabien-conejero-131313.jpg" alt="Fabien Conéjéro" width="90%" height="90%">
+  <img src="https://github.com/madjeek-web/madjeek-web/raw/main/fabien-conejero-131313.jpg" alt="Fabien Conéjéro" width="100%" height="100%">
 </p>
 
  # Fabien Conéjéro
